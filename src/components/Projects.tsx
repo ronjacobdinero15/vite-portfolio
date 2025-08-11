@@ -36,7 +36,7 @@ const PROJECT_LIST: ProjectType[] = [
     src: personalPortfolioPreview,
     description: 'My portfolio which is this website.',
     techs: [
-      'Next.js',
+      'Vite',
       'React.js',
       'TypeScript',
       'Tailwind',
